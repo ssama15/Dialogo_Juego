@@ -1,0 +1,1169 @@
+fileFormatVersion: 2
+guid: 51e66234b91ae4a36bb18faf953b02b4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 814
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817adcd9c6f8a44e386783ee207fd57b
+      internalID: -507781991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 814
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67be1dd3a1241149310fd521779bf3
+      internalID: 822217369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 814
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9e78b425dde409c978ee688f07c925
+      internalID: 2001159003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 814
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03abcc1f36b94d6881b0ee4543696c3
+      internalID: 1650471878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 677
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a4669f458614bf5812d54ff2bbaa2c
+      internalID: 551487070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 679
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0953b8aba38d246b1859e874de77ff35
+      internalID: -1384377622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 679
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738d091051be4c9084a3a708d8923a9
+      internalID: -381910550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 679
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24947e0467c94540ae4aa382c94d911
+      internalID: 1900046561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_8
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 681
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2987cc43269a43438a1876482999c2d
+      internalID: 41745339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282116245de6a4eaeac8aad20fda709e
+      internalID: -248785607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 552
+        width: 222
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87755ee7a18a041f9b0a2801aa6c03cb
+      internalID: -913252755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 552
+        width: 196
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd55f3f540c274be09c9dd53a80e9f6b
+      internalID: -1231325390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 419
+        width: 144
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1aa363136294fd88c9300323409a4e
+      internalID: -305047962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 419
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be2728b3eeb4e779eeff187f58db52
+      internalID: 1465636425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 273
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf011d8caffa48618c4e84747cdf6d7
+      internalID: 93927161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 273
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6f7a1a8b1374f9f945403d7eb1fdfa
+      internalID: 9901626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_16
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 273
+        width: 118
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c893240db0f4633bbf1c0512561dcf
+      internalID: 1607097670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 273
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e54029e3ca4f08a3917f4bd483293
+      internalID: -707408175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 150
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55c9a6ad912e4167beacf3601f4daf4
+      internalID: 773484311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae524938f631e453c81346aa7c45c642
+      internalID: -11332442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 117
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eaa4e6eb7e0423bb4241df20305477
+      internalID: 1191634998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 127
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2702155acb0f541bc917494a921dd416
+      internalID: 97797075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_22
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 113
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff654054df594d698fa359152303eea
+      internalID: 1621990132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096ffd06826d497480f19dc07983eeb
+      internalID: -390456914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 37
+        width: 117
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe588798232f4f78aaff44e18089c94
+      internalID: -1852097877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 37
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e412faca735495abf455d7787a102a
+      internalID: 585893578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 99
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b4079814e0c4f3485b1990e9c85d06
+      internalID: 1071475051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 105
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea62da1f28654544b45b14ad643baf3
+      internalID: -1615279203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 81
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7730d8af5b4f4ce080f54caafbae225
+      internalID: -123284517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 99
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040962f9f7c0c4ddebacef7bc347aa88
+      internalID: -825577963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_30
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 95
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13878b9ac716d49d791535197d1a3811
+      internalID: -1923865595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 93
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4efcc8f583741b3a7d3f4a7bfcb922
+      internalID: -1954192835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 35
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45571bba563a243cda760ebaf01d97aa
+      internalID: -1494398065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 35
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65114f75babe244709e5da968a0ae6b5
+      internalID: 183192773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 63
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb15f9ddd57a41d2946aacfd19e847a
+      internalID: 1080075674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 77
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e29d04de3d4263acfa2a04e992fe8
+      internalID: 1596277890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_36
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 67
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdeb67376d124aa8ad62f3f3ff7800f
+      internalID: -2145527904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_37
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 67
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06c7339b1804ccfa14dcd1cfea7046
+      internalID: -406236487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_38
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 67
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222e4ec58909d4b1dbee517d64451ef3
+      internalID: 1493465757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 47
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d178d3393b424e1ea34bc3c9a837772
+      internalID: 1428080147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 63
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30761ec357a3a43519c6b302607c803b
+      internalID: -1810761095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 59
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371671bde3c12445f892317fe53f57f4
+      internalID: 29792460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 41
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1e733101de24b0881324ba12cfc0ca
+      internalID: -937999637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_43
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 45
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e7672e326af4251a4ccee810efbf29
+      internalID: 1461684381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_44
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 47
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d187167f4abc433788ca92e9aadce5d
+      internalID: -1771233056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_45
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 35
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd0a7458a1ac4983888c7a561bd7746
+      internalID: -835585552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reyna 2D videojuegos_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 35
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d85409c062448588f9c1f65c07db85
+      internalID: -1851861449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Reyna 2D videojuegos_39: 1428080147
+      Reyna 2D videojuegos_16: 1607097670
+      Reyna 2D videojuegos_28: -123284517
+      Reyna 2D videojuegos_9: -248785607
+      Reyna 2D videojuegos_41: 29792460
+      Reyna 2D videojuegos_40: -1810761095
+      Reyna 2D videojuegos_46: -1851861449
+      Reyna 2D videojuegos_35: 1596277890
+      Reyna 2D videojuegos_20: 1191634998
+      Reyna 2D videojuegos_0: -507781991
+      Reyna 2D videojuegos_1: 822217369
+      Reyna 2D videojuegos_12: -305047962
+      Reyna 2D videojuegos_29: -825577963
+      Reyna 2D videojuegos_14: 93927161
+      Reyna 2D videojuegos_37: -406236487
+      Reyna 2D videojuegos_19: -11332442
+      Reyna 2D videojuegos_24: -1852097877
+      Reyna 2D videojuegos_31: -1954192835
+      Reyna 2D videojuegos_27: -1615279203
+      Reyna 2D videojuegos_42: -937999637
+      Reyna 2D videojuegos_38: 1493465757
+      Reyna 2D videojuegos_18: 773484311
+      Reyna 2D videojuegos_3: 1650471878
+      Reyna 2D videojuegos_4: 551487070
+      Reyna 2D videojuegos_17: -707408175
+      Reyna 2D videojuegos_25: 585893578
+      Reyna 2D videojuegos_11: -1231325390
+      Reyna 2D videojuegos_34: 1080075674
+      Reyna 2D videojuegos_45: -835585552
+      Reyna 2D videojuegos_36: -2145527904
+      Reyna 2D videojuegos_22: 1621990132
+      Reyna 2D videojuegos_13: 1465636425
+      Reyna 2D videojuegos_26: 1071475051
+      Reyna 2D videojuegos_43: 1461684381
+      Reyna 2D videojuegos_21: 97797075
+      Reyna 2D videojuegos_7: 1900046561
+      Reyna 2D videojuegos_44: -1771233056
+      Reyna 2D videojuegos_30: -1923865595
+      Reyna 2D videojuegos_2: 2001159003
+      Reyna 2D videojuegos_5: -1384377622
+      Reyna 2D videojuegos_8: 41745339
+      Reyna 2D videojuegos_23: -390456914
+      Reyna 2D videojuegos_6: -381910550
+      Reyna 2D videojuegos_32: -1494398065
+      Reyna 2D videojuegos_33: 183192773
+      Reyna 2D videojuegos_15: 9901626
+      Reyna 2D videojuegos_10: -913252755
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
